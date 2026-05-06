@@ -6,7 +6,7 @@ A Java desktop application that demonstrates Object-Oriented Programming (OOP) p
 
 ## 🎯 Overview
 
-This project was built as part of a college assignment to apply and practice core OOP concepts in a real-world scenario.
+This project was built in 2022 as part of a college assignment to apply and practice core OOP concepts in a real-world scenario.
 
 The application allows users to generate structured IDs based on customizable rules, while showcasing clean code organization and object-oriented design.
 
