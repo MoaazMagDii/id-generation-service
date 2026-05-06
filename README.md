@@ -28,5 +28,6 @@ The application allows users to generate structured IDs based on customizable ru
 ---
 
 ## 🏗️ Example Output
-<img width="606" height="653" alt="sample-2" src="https://github.com/user-attachments/assets/4c9dc636-8d0d-48f8-8e4c-b8201e4451d9" />
-<img width="664" height="676" alt="sample" src="https://github.com/user-attachments/assets/2b70071a-1a88-4113-b44a-0f18585728f8" />
+<img width="232" height="250" alt="sample-2" src="https://github.com/user-attachments/assets/21ef5a9a-08c3-4216-853b-22ec8ee710d4" />
+<img width="246" height="250" alt="sample" src="https://github.com/user-attachments/assets/e1eb8dc2-65f8-49f7-b41c-c38f2be2040f" />
+
